@@ -1,4 +1,4 @@
-# 声明
+# 写在前面
 
 ​	本人为完成研究生阶段的小作业，找到了源项目[CasRelPyTorch](https://github.com/Onion12138/CasRelPyTorch)。本项目修改自作者[Onion12138](https://github.com/Onion12138) 在2022年9月19日上传至Github的项目[CasRelPyTorch](https://github.com/Onion12138/CasRelPyTorch) ，本项目根据本人的需求修改部分代码以及增加了一些功能。如有任何侵权行为，请联系作者进行删除。
 
