@@ -13,7 +13,7 @@
 	- 添加了模型预测方法。
 	- 增加了将文本（.txt文件）转换成模型输入数据格式（.json文件）代码dataGeneration.py。
 	- 增加了模型预测结果输出到图数据库neo4j的功能。
-附模型参数文件model.pt 如下：
+附百度数据集（源项目自带的数据集）训练的模型参数文件model.pt 如下：
 链接：https://pan.baidu.com/s/1lTOU3tUMFU-rKk24phzi2w?pwd=evxg 
 提取码：evxg
 
